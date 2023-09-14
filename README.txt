@@ -1,4 +1,4 @@
-A few words about the application of this PCB.
+A few words about application of this PCB.
 
 I designed this PCB with 7 signal inputs and 5 signal output lines including: 3 signal lines to control leds(12V) using transistors, 2 lines using relays. This project is to control corridor lights with input signals from sensors or control from smartphones. Besides, I have integrated 2 connection ports for brightness, temperature and humidity sensors for mobile applications. This board uses 12VDC power.
 
