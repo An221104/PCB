@@ -1,9 +1,10 @@
-A few words about application of this PCB.
+This PCB is designed for corridor lighting control applications. It includes 7 input signal lines and 5 output channels, consisting of:
+- 3 outputs for controlling 12V LEDs via transistors,
+- 2 outputs using relays for higher load switching.
 
-I designed this PCB with 7 signal inputs and 5 signal output lines including: 3 signal lines to control leds(12V) using transistors, 2 lines using relays. This project is to control corridor lights with input signals from sensors or control from smartphones. Besides, I have integrated 2 connection ports for brightness, temperature and humidity sensors for mobile applications. This board uses 12VDC power.
+The board supports input from motion or light sensors and allows remote control via smartphone. Additionally, it provides two sensor ports for connecting brightness, temperature, or humidity sensors, making it suitable for mobile and smart home applications. Power is supplied via a 12VDC input.
 
-I have a note for you when using.
-The resistor values used in this file maybe incorrect.
-You should calculate all resistor values for your project to be highly efficient.
+Note: The resistor values in the schematic may be placeholders. Please calculate and adjust resistor values according to your specific application to ensure optimal performance.
+
 
 Thank you!!!
